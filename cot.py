@@ -13,7 +13,7 @@ from ssd1309 import Display
 from xglcd_font import XglcdFont
 
 DISPLAY_WIDTH = const(128)
-#wi-fi decloration
+# wi-fi decloration
 wifissid1 = 'Tomato24'
 wifipassword1 = '77777777'
 wifissid2 = ''
